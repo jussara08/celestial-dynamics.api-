@@ -57,7 +57,8 @@ Heatmap of Kp intensity
 Cross-Event Comparisons
 CME speed vs resulting geomagnetic storm strength
 Event timelines combining FLR, CME, and GST
-📱 Proposed Application: Celestial dynamics App
+📱 
+Proposed Application:  Celestial dynamics App
 A real-time hazard intelligence platform enabling:
 For Aviation
 ✈ Alerts for polar route disruptions
