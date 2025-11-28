@@ -1,4 +1,4 @@
-# celestial-dynamics.api
+# celestial dynamics.app
 Project Overview
 SpaceRisk is a data analytics project that transforms NASA open-source APIs into meaningful insights about space hazards — including asteroids, solar flares, geomagnetic storms, and coronal mass ejections.
 The goal is to understand how these hazards behave over time, how they differ by intensity, and how they impact sectors such as aviation, telecommunications, and satellite operations.
@@ -57,8 +57,8 @@ Heatmap of Kp intensity
 Cross-Event Comparisons
 CME speed vs resulting geomagnetic storm strength
 Event timelines combining FLR, CME, and GST
-📱 
-Proposed Application:  Celestial dynamics App
+
+📱 Proposed Application:  Celestial dynamics App
 A real-time hazard intelligence platform enabling:
 For Aviation
 ✈ Alerts for polar route disruptions
